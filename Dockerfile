@@ -1,4 +1,4 @@
-FROM python:3.11.3-alpine3.18
+FROM python:3.10-alpine3.19
 LABEL mantainer="renansaravalli@gmail.com"
 
 #Essa vaiável de ambiente é usada para controlar se o Python deve gravar arquivos de bytecode (.pyc ) no disco. 1 = Não, 0 = Sim 
