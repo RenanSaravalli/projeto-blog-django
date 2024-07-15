@@ -69,6 +69,10 @@
   --br-base: 0.4rem;
 }
 
+img {
+  margin: 0 auto;
+}
+
 /* Base */
 html {
   font-size: 62.5%;
